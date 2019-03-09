@@ -1,0 +1,37 @@
+
+body{font-family:sans-serif;
+background-image: url("images/bats.gif");
+border: solid;
+margin-top: 40px;
+margin-left: 310px;
+box-shadow: 0px 10px 30px 8px;
+width:800px;
+ } 
+header{ 
+     background-image: linear-gradient(45deg,#f6bb73 0%, #fffded 0%, white 3%, #fffded 33%, #f6bb73 93%,black 11%);
+	 border-bottom-style: solid;
+ }
+main {  text-align:center; }
+ 
+img{float:center-left;}
+h1 {font-size:215%;
+    text-align:center;
+	}
+	main{
+		background-color: white;
+		
+	    }
+h2::first-letter { font-size: 150%;}
+a { font-weight: bold; }
+a:link { color: #FF4500; }
+a:visited { color: #008000;}
+a:hover, a:focus { color: green; }
+footer {
+	 background-image: linear-gradient(45deg,black 5%,#fffded 14%,#f6bb73 13%, #FFFDEE 85%, white 116%, #fffded 80%, #f6bb73 100%);
+	border-top-style:solid;
+	font-size:75%;
+    text-align:center;    
+	}
+ 
+ 
+   
